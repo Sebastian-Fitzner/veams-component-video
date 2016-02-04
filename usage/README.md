@@ -1,4 +1,4 @@
-# slider
+# Video
 
 This component is based on the blueprint of Veams-Components.
 
