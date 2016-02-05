@@ -7,7 +7,7 @@ This component is based on the blueprint of Veams-Components.
 ### Include: Page
 
 ``` hbs
-// @INSERT :: START @id: component, @tag: veams-component
+{{! @INSERT :: START @id: video, @tag: component-partial }}
 {{#with video-bp}}
 	{{> c-video}}
 {{/with}}
@@ -17,7 +17,7 @@ This component is based on the blueprint of Veams-Components.
 ### Include: SCSS
 
 ``` scss
-// @INSERT :: START @id: scss-import, @tag: veams-component
+// @INSERT :: START @id: scss-import
 @import "components/_c-video";
 // @INSERT :: END
 ```
