@@ -1,5 +1,5 @@
 <p align="right">
-    <a href="https://badge.fury.io/bo/veams-component-badge"><img src="https://badge.fury.io/bo/veams-component-badge.svg" alt="Bower version" height="20"></a>
+    <a href="https://badge.fury.io/bo/veams-component-video"><img src="https://badge.fury.io/bo/veams-component-video.svg" alt="Bower version" height="20"></a>
     <a href="https://gitter.im/Sebastian-Fitzner/Veams?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"><img src="https://badges.gitter.im/Sebastian-Fitzner/Veams.svg" alt="Gitter Chat" /></a>
 </p>
 
@@ -9,9 +9,15 @@
 
 A video component supporting WebM, MP4 and Subtitles.
 
+<<<<<<< Updated upstream
 ----------- 
 
 ## Installation 
+=======
+-----------
+
+## Installation
+>>>>>>> Stashed changes
 
 ### Installation with Veams
 
@@ -21,6 +27,7 @@ A video component supporting WebM, MP4 and Subtitles.
 
 `bower install veams-component-video --save`
 
+<<<<<<< Updated upstream
 ----------- 
 
 ## Fields
@@ -39,6 +46,26 @@ A video component supporting WebM, MP4 and Subtitles.
 - content.videoTrack.trackSubtitle {`String`} - _Subtitle_
 - content.videoTrack.trackLang {`String`} - _Language_
 - content.videoTrack.trackLabel {`String`} - _Label_
+=======
+-----------
+
+## Fields
+
+### General
+- settings.videoContextClass {`String`} [default] - _Just pass a string._
+- settings.videoClasses {`String`} - _Modifier classes._
+- settings.videoOptions {`String`} - _Apply multiple options as string._
+
+### Content
+- content.videoPoster {`String`} - _Url to a poster image._
+- content.videoMp4 {`String`} - _Url to mp4 video file._
+- content.videoWebm {`String`} - _Url to webm video file._
+- content.videoTrack {`Object`} - _Object which contains tracking data._
+- content.videoTrack.trackSrc {`String`} - _Url to track file._
+- content.videoTrack.trackSubtitle {`String`} - _Subtitle._
+- content.videoTrack.trackLang {`String`} - _Language._
+- content.videoTrack.trackLabel {`String`} - _Label._
+>>>>>>> Stashed changes
 
 
 
