@@ -1,3 +1,9 @@
+### v2.0.3
+- Update readme
+
+### v2.0.2
+- Add getUrl helper
+
 ### v2.0.1
 - Update insertpoints
 - Update readme
