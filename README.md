@@ -26,19 +26,19 @@ A video component supporting WebM, MP4 and Subtitles.
 ## Fields
 
 ### Settings
-- settings.videoContextClass {`String`} [default] - _Just pass a string_
-- settings.videoClasses {`String`} - _Modifier classes_
-- settings.videoOptions {`String`} - _Apply multiple options as string_
+- settings.videoContextClass {`String`} [default] - _Context class of component._
+- settings.videoClasses {`String`} - _Modifier classes for component._
+- settings.videoOptions {`String`} - _Apply multiple options as string._
 
 ### Content
-- content.videoPoster {`String`} - _Url to a poster image_
-- content.videoMp4 {`String`} - _Url to mp4 video file_
-- content.videoWebm {`String`} - _Url to webm video file_
-- content.videoTrack {`Object`} - _Object which contains tracking data_
-- content.videoTrack.trackSrc {`String`} - _Url to track file_
-- content.videoTrack.trackSubtitle {`String`} - _Subtitle_
-- content.videoTrack.trackLang {`String`} - _Language_
-- content.videoTrack.trackLabel {`String`} - _Label_
+- content.videoPoster {`String`} - _Url to a poster image._
+- content.videoMp4 {`String`} - _Url to mp4 video file._
+- content.videoWebm {`String`} - _Url to webm video file._
+- content.videoTrack {`Object`} - _Object which contains tracking data._
+- content.videoTrack.trackSrc {`String`} - _Url to track file._
+- content.videoTrack.trackSubtitle {`String`} - _Subtitle._
+- content.videoTrack.trackLang {`String`} - _Language._
+- content.videoTrack.trackLabel {`String`} - _Label._
 
 
 

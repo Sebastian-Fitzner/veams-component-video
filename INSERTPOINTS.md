@@ -1,5 +1,3 @@
-## Usage
-
 ### Include: Page
 
 ``` hbs

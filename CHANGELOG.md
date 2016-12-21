@@ -1,3 +1,7 @@
+### v2.0.4
+- Update readme
+- Update insertpoints
+
 ### v2.0.3
 - Update readme
 
