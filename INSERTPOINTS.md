@@ -1,3 +1,5 @@
+## Usage
+
 ### Include: Page
 
 ``` hbs
@@ -6,12 +8,4 @@
     {{> c-video settings=this.settings content=this.content}}
 {{/with}}
 {{! @INSERT :: END }}
-```
-
-### Include: SCSS
-
-``` scss
-// @INSERT :: START @tag: scss-self-contained-import // 
-@import "../components/video/scss/_c-video";
-// @INSERT :: END //
 ```

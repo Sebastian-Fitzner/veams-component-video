@@ -1,11 +1,3 @@
----
-type: component
-contextData: "video-bp"
-layout: "lyt-docs"
-publish: true
-scssFiles:
-- _c-video.scss
----
 <video class="c-video{{#if settings.videoContextClass}}--{{settings.videoContextClass}}{{else}}--default{{/if}}{{#if settings.videoClasses}} {{settings.videoClasses}}{{/if}}"
        data-css="c-video"
        poster="{{getUrl content.videoPoster}}" {{settings.videoOptions}}
