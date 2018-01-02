@@ -1,6 +1,6 @@
 {
 	"name": "veams-component-video",
-	"version": "5.0.1",
+	"version": "5.1.0",
 	"description": "A video component supporting WebM, MP4 and Subtitles.",
 	"repository": {
 		"type": "git",
