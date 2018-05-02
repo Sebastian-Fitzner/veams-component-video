@@ -1,10 +1,10 @@
 {
-	"name": "veams-component-video",
-	"version": "5.1.0",
+	"name": "@veams/component-video",
+	"version": "1.0.0",
 	"description": "A video component supporting WebM, MP4 and Subtitles.",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Veams/veams-component-video.git"
+		"url": "git://github.com/Veams/component-video.git"
 	},
 	"keywords": [
 		"veams"
@@ -12,7 +12,7 @@
 	"author": "Sebastian Fitzner",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Veams/veams-component-video/issues"
+		"url": "https://github.com/Veams/component-video/issues"
 	},
-	"homepage": "https://github.com/Veams/veams-component-video#readme"
+	"homepage": "https://github.com/Veams/component-video#readme"
 }

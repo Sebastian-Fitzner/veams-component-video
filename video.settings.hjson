@@ -1,8 +1,8 @@
 {
 	"type": "component",
-	"contextData": "video-bp",
+	"contextData": "video",
 	"layout": "lyt-docs",
 	"scssFiles": [
-		"styles/_video.scss"
+		"_video.scss"
 	]
 }
